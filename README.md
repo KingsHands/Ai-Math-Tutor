@@ -14,4 +14,3 @@ mxbai-embed-large model, an open-source embedding model licensed under the Apach
 
 pgvector, an open-source PostgreSQL extension for vector data. For more information, visit https://github.com/pgvector/pgvector.
 
-
